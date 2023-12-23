@@ -27,4 +27,8 @@
 
 // Теперь поменяем картинку:
 ![Model](imiges/4_after.jpg )
+// ПОПРОБУЕМ изменить стиль:
+![Model](imiges/5_after.jpg )
+
+
 
